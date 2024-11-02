@@ -3,7 +3,8 @@
 # import time
 # import random
 
-# import bluetooth
+import bluetooth
+import wmi
 
 import threading
 from threading import Thread
