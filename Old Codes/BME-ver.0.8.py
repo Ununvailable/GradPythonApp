@@ -4,7 +4,7 @@
 # import random
 
 import bluetooth
-import wmi
+import wmi  # Setting IP address
 
 import threading
 from threading import Thread
